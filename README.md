@@ -16,8 +16,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
-WELCOME TO MY DYNE TIME RESTAURANT REACT-NATIVE PROJECT.
+WELCOME TO MY DINE TIME RESTAURANT REACT-NATIVE PROJECT.
 
-=> This is my dyning time restaurant app i used in this project technology 
+=> This is my dining time restaurant app i used in this project technology 
 => React native expo project With firebase authentication .
-=> i use mainly firebase auth and all setup my dyning project we can access to and book dyne time book slot with date and many one more people select and we can book my slot to dynig table and also all slot data comming from firebase in fire store and etc.
+=> i use mainly firebase auth and all setup my dining project we can access to and book dine time book slot with date and many one more people select and we can book my slot to dinig table and also all slot data comming from firebase in fire store and etc.
