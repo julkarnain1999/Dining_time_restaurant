@@ -1,5 +1,5 @@
 {
-  "name": "dyning_time_restaurant",
+  "name": "dining_time_restaurant",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
