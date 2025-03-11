@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "dyning_time_restaurant",
-    "slug": "dyning_time_restaurant",
+    "name": "dining_time_restaurant",
+    "slug": "dining_time_restaurant",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
